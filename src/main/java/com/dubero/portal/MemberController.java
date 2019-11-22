@@ -9,5 +9,5 @@ public class MemberController {
 	private String a444;
 	private String a3333;
 	
-	private String a66666; 
+	private String a9999; 
 }
