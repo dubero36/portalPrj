@@ -12,6 +12,6 @@ public class MemberController {
 	private String a77; 
 	private String a88;
 	
-	private String a99;
+	private String a111;
 	
 }
