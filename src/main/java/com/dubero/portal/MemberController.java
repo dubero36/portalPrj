@@ -5,4 +5,6 @@ public class MemberController {
 	private String name;
 	
 	private String address;
+	
+	private String a4;
 }
