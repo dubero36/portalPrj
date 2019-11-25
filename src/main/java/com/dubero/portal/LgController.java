@@ -7,4 +7,6 @@ public class LgController {
 	private String name2;
 	
 	private String name3;
+	
+	private String name4;
 }
