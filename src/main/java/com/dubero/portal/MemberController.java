@@ -6,7 +6,6 @@ public class MemberController {
 	
 	private String address1;
 	
-	private String a444;
 	private String a3333;
 	
 	private String a77; 
@@ -15,5 +14,7 @@ public class MemberController {
 	private String a111;
 	
 	private String a222;
+	
+	private String a444;
 	
 }
