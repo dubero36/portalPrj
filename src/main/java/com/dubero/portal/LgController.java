@@ -10,7 +10,7 @@ public class LgController {
 	
 	private int i1;
 	
-	private int i2;
+	private int i3;
 	
 	private int i4;
 }
