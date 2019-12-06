@@ -16,6 +16,6 @@ public class LgController {
 	
 	private int i7;
 	
-	private int i555;
-	private int i666;
+	private int i888;
+	
 }
