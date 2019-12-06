@@ -18,4 +18,5 @@ public class LgController {
 	
 	private int i888;
 	
+	private int i999;
 }
