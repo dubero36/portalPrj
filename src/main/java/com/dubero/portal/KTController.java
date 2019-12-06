@@ -4,6 +4,6 @@ public class KTController {
 	
 	private int k111;
 	
-	private int k999;
+	private int k9999;
 	
 }
