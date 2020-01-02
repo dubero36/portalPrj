@@ -5,5 +5,7 @@ public class User2 {
 		System.out.println("User2.print()");
 		
 		System.out.println("local.commit");
+		
+		System.out.println("remote.commit");
 	}
 }
