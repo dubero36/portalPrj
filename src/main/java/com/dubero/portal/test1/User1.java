@@ -4,8 +4,6 @@ public class User1 {
 	public void print() {
 		System.out.println("User1.print()");
 		
-		System.out.println("local.commit");
-		
-		System.out.println("local.commit2");
+		System.out.println("local.commit #4");
 	}
 }
