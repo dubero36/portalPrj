@@ -4,8 +4,8 @@ public class User2 {
 	public void print() {
 		System.out.println("User2.print()");
 		
-		System.out.println("local.commit");
+		System.out.println("local2.commit");
 		
-		System.out.println("remote.commit");
+		System.out.println("remote2.commit");
 	}
 }

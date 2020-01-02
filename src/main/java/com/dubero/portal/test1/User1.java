@@ -5,5 +5,7 @@ public class User1 {
 		System.out.println("User1.print()");
 		
 		System.out.println("local.commit");
+		
+		System.out.println("local.commit2");
 	}
 }
